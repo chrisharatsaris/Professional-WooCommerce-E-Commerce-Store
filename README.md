@@ -22,5 +22,4 @@ A fully responsive and operational e-commerce web application developed using Wo
 
 | Shopping Cart & Items | Single Product View |
 | :---: | :---: |
-| ![Basket](BASKET.jpg) | ![Product](PROION_MEMONOMENO.jpg) |# Professional-WooCommerce-E-Commerce-Store
-A professional e-commerce store built with WordPress and WooCommerce, featuring a modern design, custom navigation, and full shopping functionality
+| ![Basket](BASKET.jpg) | ![Product](PROION%20MEMONOMENO.jpg) |
