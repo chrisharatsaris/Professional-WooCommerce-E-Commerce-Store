@@ -18,8 +18,8 @@ A fully responsive and operational e-commerce web application developed using Wo
 
 | Homepage Showcase | Store Catalog (Shop) |
 | :---: | :---: |
-| ![Homepage](HOMEPAGE.jpg) | ![Shop](SHOP.jpg) |
+| ![Homepage](HOMEPAGE.png) | ![Shop](SHOP.png) |
 
 | Shopping Cart & Items | Single Product View |
 | :---: | :---: |
-| ![Basket](BASKET.jpg) | ![Product](PROION%20MEMONOMENO.jpg) |
+| ![Basket](BASKET.png) | ![Product](PROION%20MEMONOMENO.png) |
