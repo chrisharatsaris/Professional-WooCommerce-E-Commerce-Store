@@ -18,9 +18,9 @@ A fully responsive and operational e-commerce web application developed using Wo
 
 | Homepage Showcase | Store Catalog (Shop) |
 | :---: | :---: |
-| ![Homepage](screenshots/HOMEPAGE.jpg) | ![Shop](screenshots/SHOP.jpg) |
+| ![Homepage](HOMEPAGE.jpg) | ![Shop](SHOP.jpg) |
 
 | Shopping Cart & Items | Single Product View |
 | :---: | :---: |
-| ![Basket](screenshots/BASKET.jpg) | ![Product](screenshots/PROION_MEMONOMENO.jpg) |# Professional-WooCommerce-E-Commerce-Store
+| ![Basket](BASKET.jpg) | ![Product](PROION_MEMONOMENO.jpg) |# Professional-WooCommerce-E-Commerce-Store
 A professional e-commerce store built with WordPress and WooCommerce, featuring a modern design, custom navigation, and full shopping functionality
